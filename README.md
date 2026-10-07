@@ -36,10 +36,10 @@ Durante o desenvolvimento do projeto foram utilizados conceitos como:
 - Ao inicializar a aplicação:
 <img width="1076" height="513" alt="image" src="https://github.com/user-attachments/assets/7d65b251-a681-4370-8b7f-6dbf5e439ada" />
 
-- Ao selecionar uma nota:
+- Ao selecionar uma nota e editá-la:
 <img width="1071" height="515" alt="image" src="https://github.com/user-attachments/assets/87ed8a95-b20f-499b-a43f-a9bafb5f552e" />
 
-- Ao editar uma nota:
+- Ao editar salvar a nota editada:
 <img width="1077" height="518" alt="image" src="https://github.com/user-attachments/assets/c06b730a-8181-482d-933e-2f30b3ee2823" />
 
 
