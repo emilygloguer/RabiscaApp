@@ -80,6 +80,7 @@ namespace NotasApp
             tbxNota.Clear();
             lbxNotas.Items.Clear();
             lbxNotas.Items.AddRange([.. notas]);
+            btnExcluirNota.Enabled = false;
         }
 
         private void btnExcluirNota_Click(object sender, EventArgs e)
